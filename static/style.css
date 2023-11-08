@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+
+button:hover {
+    cursor: pointer;
+    background-color: white;
+  }
+
+.card {
+    height: 50%;
+    width: 30%;
+}
